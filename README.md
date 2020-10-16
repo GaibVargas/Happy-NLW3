@@ -1,4 +1,4 @@
-# Happy
+# Happy :smile:
 
 Projeto construído com **Typescript** durante a NLW 3 da Rocketseat.
 
